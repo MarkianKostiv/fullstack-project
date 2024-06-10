@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "email": "marrkiian.kostiv@gmail.com",
+      "phoneNumber": "+380638459636",
+      "power": 2,
+      "defense": 10,
+      "password": 2222222,
+      "id": "1718010556047"
+    },
+    {
+      "email": "marrrrkiian.kostiv@gmail.com",
+      "phoneNumber": "+380638459627",
+      "password": 1234567,
+      "id": "1718030216239"
+    },
+    {
+      "email": "test@gmail.com",
+      "phoneNumber": "+380678449621",
+      "password": "sdgagagaegr",
+      "id": "1718030394432"
+    },
+    {
+      "email": "mstcrf@gmail.com",
+      "password": "ewrqwrqwr",
+      "phoneNumber": "+380366454271",
+      "id": "1718037614524"
+    },
+    {
+      "email": "mstcccrf@gmail.com",
+      "password": "wefwfwe",
+      "phoneNumber": "+380678459629",
+      "id": "1718037916890"
+    },
+    {
+      "email": "firstTest@gmail.com",
+      "password": "32325235325",
+      "phoneNumber": "+380096356798",
+      "id": "1718039946915"
+    },
+    {
+      "email": "ba@gmail.com",
+      "password": "12345",
+      "phoneNumber": "+380637812345",
+      "id": "1718051798228"
+    }
+  ],
+  "fighters": [
+    {
+      "name": "test front",
+      "health": 90,
+      "power": 12,
+      "defense": 10,
+      "id": "1718029128839"
+    },
+    {
+      "name": "ewrew",
+      "power": 9,
+      "defense": 10,
+      "health": 80,
+      "id": "1718041774832"
+    },
+    {
+      "name": "lwewe",
+      "power": 9,
+      "defense": 8,
+      "health": 80,
+      "id": "1718046516732"
+    },
+    {
+      "name": "erwrew",
+      "power": 10,
+      "defense": 5,
+      "health": 90,
+      "id": "1718048768207"
+    },
+    {
+      "name": "sdfsd",
+      "power": 10,
+      "defense": 10,
+      "health": 90,
+      "id": "1718049474185"
+    },
+    {
+      "name": "nana",
+      "power": 10,
+      "defense": 8,
+      "health": 90,
+      "id": "1718051848501"
+    }
+  ],
+  "battles": []
+}
